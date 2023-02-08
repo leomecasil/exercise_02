@@ -1,2 +1,2 @@
 # exercise_02
-Exercise 02, firts step on CSS.
+Exercise 02, first step on CSS.
